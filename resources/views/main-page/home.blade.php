@@ -343,7 +343,7 @@
                             <div class="top-mediic-section">
                                 <div class="mediic-section-title cursor-scale white" data-aos="flip-left">
                                     <h2>LAYANAN UNGGULAN</h2>
-                                    <h2>UNTUK KESEHATAN ANDA</h2>
+                                    <h2>UNTUK KESEHATAN ANDA!</h2>
                                 </div>
                                 {{-- <div class="mediic-desc" data-aos="fade-up">
                                     <p>
