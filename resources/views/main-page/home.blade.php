@@ -684,7 +684,7 @@
                                 <div class="swiper-slide">
                                     <div class="team-single-box" data-aos="fade-up">
                                         <div class="team-thumb">
-                                            <img src="assets/images/dokter/drRizal.jpg" alt="" />
+                                            <img src="assets/images/dokter/drSuhadi.png" alt="" />
                                             <div class="social-icon">
                                                 <ul>
                                                     <li>
