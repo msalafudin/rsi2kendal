@@ -945,30 +945,6 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="swiper-slide">
-                                    <div class="team-single-box" data-aos="zoom-in">
-                                        <div class="team-thumb">
-                                            <img src="assets/images/dokter/drMasruri3.png" alt="" />
-                                            <div class="social-icon">
-                                                <ul>
-                                                    <li>
-                                                        <a href="team-details.html"><i class="fab fa-facebook-f"></i></a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="team-details.html"><i class="fa-brands fa-linkedin-in"></i></a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="team-details.html"><i class="fa-brands fa-behance"></i></a>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="team-content text-center">
-                                            <h5>psycologist</h5>
-                                            <h2>dr. Riski Ardi</h2>
-                                        </div>
-                                    </div>
-                                </div>
                             </div>
                             <div class="swiper-pagination"></div>
                         </div>
