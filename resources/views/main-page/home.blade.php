@@ -987,7 +987,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-12">
                             <div class="mediic-section-title text-center white" data-aos="flip-right">
-                                <h1 class="cursor-scale">TESTIMONIAL</h1>
+                                <h1 class="cursor-scale">TESTIMONIALS</h1>
                             </div>
                         </div>
                         <div class="mediic-shape">
