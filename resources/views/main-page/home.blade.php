@@ -286,13 +286,13 @@
                                     MISI
                                 </h3>
                                 <ol>
-                                    <li>Memberikan pelayanan yang bermutu, profesional dan Islami untuk mencapai kepuasan pelanggan dengan mengutamakan keselamatan pasien </li>
-                                    <li>Mengembangkan kompetensi sumber daya insani yang professional. </li>
-                                    <li>Membangun jejaring rumah sakit di berbagai tingkatan dan bekerjasama dengan mitra strategis untuk pengembangan pelayanan dan pendidikan</li>
-                                    <li>Menyediakan peralatan medis dan mengembangkan gedung sesuai standar serta mengikuti perkembangan ilmu pengetahuan dan teknologi.</li>
-                                    <li>Mengembangkan perangkat manajemen terintegrasi secara efektif dan efisien serta teknologi informasi yang mampu menjawab tantangan global</li>
-                                    <li>Mengimplementasikan standar akreditasi dalam operasional rumah sakit</li>
-                                    <li>Mengembangkan sumber daya insani dengan mengimplementasikan Al – Qur’an, sholat, dan infaq (ASHOI)</li>
+                                    <li style="color: black;">Memberikan pelayanan yang bermutu, profesional dan Islami untuk mencapai kepuasan pelanggan dengan mengutamakan keselamatan pasien </li>
+                                    <li style="color: black;">Mengembangkan kompetensi sumber daya insani yang professional. </li>
+                                    <li style="color: black;">Membangun jejaring rumah sakit di berbagai tingkatan dan bekerjasama dengan mitra strategis untuk pengembangan pelayanan dan pendidikan</li>
+                                    <li style="color: black;">Menyediakan peralatan medis dan mengembangkan gedung sesuai standar serta mengikuti perkembangan ilmu pengetahuan dan teknologi.</li>
+                                    <li style="color: black;">Mengembangkan perangkat manajemen terintegrasi secara efektif dan efisien serta teknologi informasi yang mampu menjawab tantangan global</li>
+                                    <li style="color: black;">Mengimplementasikan standar akreditasi dalam operasional rumah sakit</li>
+                                    <li style="color: black;">Mengembangkan sumber daya insani dengan mengimplementasikan Al – Qur’an, sholat, dan infaq (ASHOI)</li>
                                 </ol>
                             </div>
                         </div>
