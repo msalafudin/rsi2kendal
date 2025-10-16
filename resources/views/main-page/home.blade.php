@@ -275,6 +275,26 @@
                             <div class="mediic-btn cursor-scale small mt-3">
                                 <a href="about.html">Selengkapnya <i class="bi bi-arrow-return-right"></i></a>
                             </div>
+                            <div class="mediic-section-title2">
+                                <h3 class="cursor-scale small">
+                                    VISI
+                                </h3>
+                                <h4>Menjadi Rumah Sakit Islam Rujukan FKTP dan Klinik Utama Dengan Pelayanan Excellent Dan Islami Di Tahun 2029</h4>
+                            </div>
+                            <div class="mediic-section-title2">
+                                <h3 class="cursor-scale small">
+                                    MISI
+                                </h3>
+                                <ol>
+                                    <li>Memberikan pelayanan yang bermutu, profesional dan Islami untuk mencapai kepuasan pelanggan dengan mengutamakan keselamatan pasien </li>
+                                    <li>Mengembangkan kompetensi sumber daya insani yang professional. </li>
+                                    <li>Membangun jejaring rumah sakit di berbagai tingkatan dan bekerjasama dengan mitra strategis untuk pengembangan pelayanan dan pendidikan</li>
+                                    <li>Menyediakan peralatan medis dan mengembangkan gedung sesuai standar serta mengikuti perkembangan ilmu pengetahuan dan teknologi.</li>
+                                    <li>Mengembangkan perangkat manajemen terintegrasi secara efektif dan efisien serta teknologi informasi yang mampu menjawab tantangan global</li>
+                                    <li>Mengimplementasikan standar akreditasi dalam operasional rumah sakit</li>
+                                    <li>Mengembangkan sumber daya insani dengan mengimplementasikan Al – Qur’an, sholat, dan infaq (ASHOI)</li>
+                                </ol>
+                            </div>
                         </div>
                         <div class="mediic-shape" data-aos="fade-up-left">
                             <img src="assets/images/resource/dctr.png" alt="" />
