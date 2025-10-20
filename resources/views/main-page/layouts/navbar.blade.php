@@ -21,6 +21,9 @@
                             <a class="mdy-hover cursor-scale small" href="#">Beranda </a>
                         </li>
                         <li>
+                            <a class="mdy-hover cursor-scale small" href="/indikatormutu">Indikator Mutu</a>
+                        </li>
+                        <li>
                             <a class="mdy-hover cursor-scale small" href="about.html">Tentang Kami</a>
                             <ul class="sub-menu">
                                 <li><a href="about.html">Informasi Umum</a></li>
@@ -92,47 +95,46 @@
         <nav class="mediic_menu">
             <ul class="nav_scroll">
                 <li>
-                    <a class="mdy-hover" href="#">Home </a>
-                    <ul class="sub-menu">
-                        <li><a href="index.html">Home Page 01</a></li>
-                        <li><a href="index-2.html">Home Page 02</a></li>
-                    </ul>
+                    <a class="mdy-hover cursor-scale small" href="#">Beranda </a>
                 </li>
                 <li><a class="mdy-hover" href="about.html">About</a></li>
                 <li>
-                    <a class="mdy-hover" href="#">Pages </a>
+                    <a class="mdy-hover" href="#">Tentang Kami </a>
                     <ul class="sub-menu">
-                        <li><a href="about.html">About Us</a></li>
-                        <li><a href="service.html">Our Service</a></li>
-                        <li><a href="team.html">Our Team</a></li>
-                        <li><a href="team-details.html">Team Details</a></li>
-                        <li><a href="project.html">Project</a></li>
-                        <li><a href="project-details.html">Project Details</a></li>
-                        <li><a href="appointment.html">Appointment</a></li>
-                        <li><a href="testimonial.html">Testimonial</a></li>
-                        <li><a href="404.html">404</a></li>
-                        <li><a href="faq.html">Faqs</a></li>
-                        <li><a href="contact.html">Contact Us</a></li>
+                        <li><a href="about.html">Informasi Umum</a></li>
+                        <li><a href="service.html">Sejarah</a></li>
+                        <li><a href="team.html">Visi & Misi</a></li>
+                        <li><a href="team-details.html">Tim Kami</a></li>
+                        <li><a href="project.html">Indikator Mutu</a></li>
                     </ul>
                 </li>
                 <li>
-                    <a class="mdy-hover" href="#">Services </a>
+                    <a class="mdy-hover" href="#">Layanan </a>
                     <ul class="sub-menu">
-                        <li><a href="service.html">Our Service</a></li>
-                        <li><a href="service-details.html">Service Details</a></li>
+                        <li><a href="about.html">Dokter</a></li>
+                        <li><a href="service.html">Poliklinik</a></li>
+                        <li><a href="team.html">Jadwal</a></li>
+                        <li><a href="team-details.html">Rawat Inap</a></li>
+                        <li><a href="project.html">Pelayanan Unit Khusus</a></li>
+                        <li><a href="project.html">Pelayanan Penunjang</a></li>
+                        <li><a href="project.html">Fasilitas Umum</a></li>
+                        <li><a href="project.html">Medical Check Up</a></li>
                     </ul>
                 </li>
                 <li>
-                    <a class="mdy-hover" href="#">Blog </a>
+                    <a class="mdy-hover cursor-scale small" href="#">Berita </a>
+                </li>
+                <li>
+                    <a class="mdy-hover cursor-scale small" href="#">Pendaftaran </a>
+                </li>
+                <li>
+                    <a class="mdy-hover cursor-scale small" href="contact.html">Hubungi Kami</a>
                     <ul class="sub-menu">
-                        <li><a href="blog-grid.html">Blog Gird</a></li>
-                        <li><a href="blog-list.html">Blog List</a></li>
-                        <li><a href="blog-2colum.html">Blog 2Column</a></li>
-                        <li><a href="blog-left-sidebar.html">Left Sidebar</a></li>
-                        <li><a href="blog-details.html">Blog Details</a></li>
+                        <li><a href="about.html">Kontak Kami</a></li>
+                        <li><a href="service.html">Kritik & Saran</a></li>
+                        <li><a href="team.html">Survey Kepuasan</a></li>
                     </ul>
                 </li>
-                <li><a class="mdy-hover" href="contact.html">Contact Us</a></li>
             </ul>
         </nav>
     </div>
