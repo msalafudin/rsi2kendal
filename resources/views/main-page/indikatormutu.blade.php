@@ -21,6 +21,29 @@
                         <div class="col-lg-12">
                             <div class="top-mediic-section">
                                 <div class="mediic-section-title cursor-scale" data-aos="flip-right">
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row about-bg align-items-center">
+                        <div class="col-lg-7">
+                            <div class="about-thumb" data-aos="fade-up-right">
+
+                            </div>
+                        </div>
+                        <div class="mediic-shape" data-aos="fade-up-left">
+                            <img src="assets/images/resource/dctr.png" alt="" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="about-section">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="top-mediic-section">
+                                <div class="mediic-section-title cursor-scale" data-aos="flip-right">
                                     <h1>
                                         Ketepatan Waktu Tanggap Komplain
                                         <span><img src="assets/images/resource/star.png" alt="" /></span>
@@ -32,7 +55,7 @@
                     <div class="row about-bg align-items-center">
                         <div class="col-lg-7">
                             <div class="about-thumb" data-aos="fade-up-right">
-                                <img src="assets/images/home/im-UhgTR57.png" alt="" />
+                                <img src="assets/images/home/im-UhgTR57.png" alt="" style="max-width: 80%;" />
 
                             </div>
                         </div>
