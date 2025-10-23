@@ -1,7 +1,7 @@
 @section('meta')
-    <meta name="keywords" content="VIP 1 Visi Trader, vip 1vt, vip satuvisitrader, vip satu visi trader" />
-    <meta name="description" content="1 Visi Trader | Forex Trader, Market Reasearch & Strategy Development">
-    <meta name="author" content="1VISITRADER" />
+    <meta name="keywords" content="RSI 2 Kendal, rsi 2 kendal, rsim2kendal, rsi 2 kendal, rsi muhammadiyah 2 kendal, rsim 2 kendal, rsi 2 patean" />
+    <meta name="description" content="RSI 2 Kendal | Kesehatan Anda, Amanah Kami">
+    <meta name="author" content="RSI2KENDAL" />
 @endsection
 
 @section('css')
