@@ -105,8 +105,6 @@
         </div>
     </div>
 
-    <script src="assets/js/swiper.min.js"></script>
-
     <!--==================================================-->
     <!-- End mediic Service Section  -->
     <!--==================================================-->
@@ -115,39 +113,14 @@
     <!-- Start mediic Subscribe Section -->
     <!--==================================================-->
 
-    <div class="mediic-subscribe mt-5">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-7">
-                    <div class="subscribe-content" data-aos="fade-up">
-                        <div class="subscribe-icon cursor-scale">
-                            <img src="assets/images/resource/bag.png" alt="" />
-                        </div>
-                        <div class="subscribe-title">
-                            <h1 class="cursor-scale small">
-                                Temukan perbedaan layanan kesehatan yang benar-benar memahami kebutuhan Anda
-                            </h1>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-5">
-                    <div class="mediic-button text-right cursor-scale small" data-aos="fade-down">
-                        <a href="contact.html" class="mediic-btn">
-                            <span class="mediic-btn__hover"></span>
-                            <span class="mediic-btn__hover"></span>
-                            <span class="mediic-btn__hover"></span>
-                            <span class="mediic-btn__hover"></span>
-                            <span class="mediic-btn__hover"></span>
-                            <span class="mediic-btn__hover"></span>
-                            Contact Us
-                            <i class="bi bi-arrow-return-right"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 
+
+    <!--==================================================-->
+    <!-- End mediic Subscribe Section -->
+    <!--==================================================-->
+@endsection
+
+@section('js')
     <div class="modal fade" id="addModal" tabindex="-1" role="dialog" aria-labelledby="addModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-xl" role="document">
             <div class="modal-content">
@@ -256,12 +229,21 @@
             </div>
         </div>
     </div>
-    <!--==================================================-->
-    <!-- End mediic Subscribe Section -->
-    <!--==================================================-->
-@endsection
 
-@section('js')
+    <script src="assets/js/swiper.min.js"></script>
+    <!-- jQuery -->
+    <!-- choose one -->
+    <script src="https://unpkg.com/feather-icons"></script>
+    <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+    <!-- Bootstrap 4 JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.bundle.min.js"></script>
+
+    <!-- DataTables JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.21/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.21/js/dataTables.bootstrap4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script>
         function showUpdate(id) {
             $.ajax({
@@ -275,6 +257,7 @@
                 },
                 dataType: "JSON",
                 success: function(data) {
+                    $('.modal-backdrop.fade.show').remove();
                     $('#updateModal').modal('show');
                     console.log(data);
 
@@ -290,6 +273,7 @@
 
         function tambah() {
             $('#addModal').modal('show');
+            $('.modal-backdrop.fade.show').remove();
         }
 
         function save() {
@@ -463,17 +447,4 @@
             });
         });
     </script>
-    <!-- jQuery -->
-    <!-- choose one -->
-    <script src="https://unpkg.com/feather-icons"></script>
-    <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-
-    <!-- Bootstrap 4 JS -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.bundle.min.js"></script>
-
-    <!-- DataTables JS -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.21/js/jquery.dataTables.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.21/js/dataTables.bootstrap4.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 @endsection
